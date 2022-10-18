@@ -1,3 +1,5 @@
+{{ config(schema='SNOWFLAKE_SAMPLE_DATA') }}
+
 with customers as (
 select
 *

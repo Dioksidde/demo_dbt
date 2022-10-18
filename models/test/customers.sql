@@ -1,4 +1,4 @@
-{{ config(schema='SNOWFLAKE_SAMPLE_DATA') }}
+{{ config(schema='STAGING') }}
 
 with customers as (
 select

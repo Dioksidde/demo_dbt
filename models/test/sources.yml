@@ -1,8 +1,0 @@
-version: 2
-
-sources:
-  - name: TPCH_SF1000
-    schema: SNOWFLAKE_SAMPLE_DATA
-    tables:
-      - name: nation
-      - name: customer
